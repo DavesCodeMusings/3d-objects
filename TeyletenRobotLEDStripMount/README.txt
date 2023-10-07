@@ -4,4 +4,4 @@ are sticking up toward the LED side for easy dupont wiring. Works
 with one meter by 17mm outside U-channel popular with LED mounting.
 
 Not super attractive, but good for hidden mounting or for demo
-purposes.
+purposes. See photos directory to see what it looks like.
