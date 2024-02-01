@@ -8,6 +8,6 @@ The fit has been tested successfully on:
 * TC Polytune 3
 * Electro-Harmonix Bass Soul Food
 * MXR Bass Fuzz Deluxe
-* Keely Seafoam Plus
+* Keeley Seafoam Plus
 
 Measure your switch diameter. Your mileage may vary.
