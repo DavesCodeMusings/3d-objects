@@ -14,3 +14,6 @@ up for with its other features.
 
 The case I have here can be printed and used as is, or you can grab
 the original FreeCAD drawings and customize it to fit your needs.
+
+The top piece is currently secured by friction in an interference
+fit. It is working, but not ideal. It may need a little glue.
